@@ -1,0 +1,17 @@
+@include Sm {
+    .main-header__container  {
+        flex-direction: column;
+    }
+     
+    .main-header__logo {
+        margin-left: auto;
+    }
+    .nav-bar {
+      margin-top: 30px;
+  }
+  // .nav-bar__list-item {
+  //   font-size: 14px;
+  // }
+}
+
+

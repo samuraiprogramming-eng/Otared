@@ -1,0 +1,31 @@
+.main-home {
+  padding: 20px 0; }
+
+.main-home__title {
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 35px; }
+
+.main-home__subtitle {
+  font-size: 24px;
+  font-weight: 500;
+  color: #313133;
+  margin-bottom: 35px; }
+
+.main-home__bg {
+  background: url("./../images/contemporary.png") no-repeat;
+  padding-bottom: 0px;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+  background-position: -90px; }
+
+.otared__name {
+  font-size: 45px;
+  font-weight: bold;
+  color: #B68C4B; }
+
+.otared__text {
+  font-size: 1.7rem;
+  font-weight: 500;
+  color: #313133; }
